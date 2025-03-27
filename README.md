@@ -1,6 +1,6 @@
 # Project 3: Point-of-Sale System
 
-This repository contains the code for a point-of-sale (POS) system developed as part of a group project for a Software Engineering course at Texas A&M University. This project was built by myself and a team of developers using an Agile development methodology. I served as the Scrum Master, organizing sprints, facilitating meetings, and guiding the development process. We used **Jira** throughout the project to manage tasks, track progress, and maintain user stories.
+This repository contains the code for a point-of-sale (POS) system developed as part of a group project for a Software Engineering course at Texas A&M University. This project was built by myself and a team of developers using an Agile development methodology. In addition to being a fullstack developer on the project I served as the Scrum Master, organizing sprints, facilitating meetings, and guiding the development process. We used **Jira** throughout the project to manage tasks, track progress, and maintain user stories.
 
 ## Tech Stack
 - **PostgreSQL** (Required)
